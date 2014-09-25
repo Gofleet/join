@@ -107,4 +107,4 @@
   };
 
   exports.Join = Join;
-}('undefined' !== typeof exports && exports || window));
+}(window));
