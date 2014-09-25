@@ -107,4 +107,4 @@
   };
 
   exports.Join = Join;
-}('undefined' !== typeof exports && exports || new Function('return this')()));
+}('undefined' !== typeof exports && exports || window));
